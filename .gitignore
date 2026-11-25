@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Game executable
+/dungeon
+
+# macOS
+.DS_Store
